@@ -1,2 +1,2 @@
 # enquizit
-An all-purpose quiz web application
+A quiz web application
